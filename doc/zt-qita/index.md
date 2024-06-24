@@ -1,0 +1,28 @@
+## 其他媒体收集
+
+
+
+- [ 纪委专家逆向思维查处隐匿的期权腐败](doc/zt-qita/qtzt0002.md)
+- [ 六张采购流程图！说清楚采购该怎么干！](doc/zt-qita/qtzt0003.md)
+- [ 中纪委教你如何从内控漏洞查舞弊大案](doc/zt-qita/qtzt0004.md)
+- [ 纪监委教你降维打击查找“小金库”](doc/zt-qita/qtzt0006.md)
+- [ 一张图教你如何做企业内部审计的五年规划](doc/zt-qita/qtzt0007.md)
+- [ 中纪委教你如何对口头承诺的千万礼金定性](doc/zt-qita/qtzt0008.md)
+- [ 中纪委教你重构时空查处受贿案件（一）](doc/zt-qita/qtzt0005.md)
+- [ 中纪委教你重构时空查处案件（二）](doc/zt-qita/qtzt0009.md)
+- [ 从无罪改判为无期？看证据链闭环的重要性](doc/zt-qita/qtzt0010.md)
+- [ 公务接待中的正面清单和负面清单](doc/zt-qita/qtzt0011.md)
+- [ 关于“举报”必须要知道的那些事](doc/zt-qita/qtzt0012.md)
+- [ 审计报告模板：工会经费审计报告](doc/zt-qita/qtzt0013.md)
+- [ 审计报告模板：资产清查专项审计](doc/zt-qita/qtzt0014.md)
+- [ 审计查处账外账的高效方法（一）](doc/zt-qita/qtzt0015.md)
+- [ 审计查处账外账的高效方法（二）](doc/zt-qita/qtzt0016.md)
+- [ 1分钟了解内部审计的完整流程体系](doc/zt-qita/qtzt0017.md)
+- [ 报告模板：关于XX专项审计报告的整改报告](doc/zt-qita/qtzt0018.md)
+- [ 挤占挪用专项资金的六种表现形式及审计对策](doc/zt-qita/qtzt0019.md)
+- [ 提升审计整改成效的六个重要举措](doc/zt-qita/qtzt0020.md)
+- [ 最高检教你如何用大数据建模查办案件](doc/zt-qita/qtzt0021.md)
+- [ 某金融机构薪酬绩效审计方案](doc/zt-qita/qtzt0023.md)
+- [ 重构视角让“李代桃僵”的旅游报销款现原形](doc/zt-qita/qtzt0024.md)
+- [ 《经营者集中反垄断合规指引》](doc/zt-qita/qtzt0025.md)
+- [ 隐蔽工程审计怎么审？三种有效的审计方法](doc/zt-qita/qtzt0026.md)
