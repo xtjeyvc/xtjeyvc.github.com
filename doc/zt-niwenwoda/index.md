@@ -2,6 +2,11 @@
 
 信息来源：https://www.ccdi.gov.cn/hdjln/nwwd/
 
+- [如何从多个量纪幅度中做出恰当纪律处分？](https://www.ccdi.gov.cn/hdjln/nwwd/202405/t20240530_351531.html)
+- [澄清正名的依据和程序是什么](https://www.ccdi.gov.cn/hdjln/nwwd/202404/t20240429_345160.html)
+- [被检举控告人不构成违纪情况下，检举控告人构成诬告陷害吗？](https://www.ccdi.gov.cn/hdjln/nwwd/202404/t20240429_345157.html)
+- [立案后被免职处分时能否给予政务撤职处分](https://www.ccdi.gov.cn/hdjln/nwwd/202404/t20240412_340786.html)
+- [如何准确认定挂名领取“高额”薪酬的性质](https://www.ccdi.gov.cn/hdjln/nwwd/202402/t20240223_329906.html)
 -  [何种情况适用立案并直接移送审理程序？](https://www.ccdi.gov.cn/hdjln/nwwd/202403/t20240328_337693.html)
 -  [调取主体身份证据应注意什么？](https://www.ccdi.gov.cn/hdjln/nwwd/202403/t20240328_337606.html)
 -  [如何界定漠视、损害群众利益行为与玩忽职守罪](https://www.ccdi.gov.cn/hdjln/nwwd/202402/t20240229_331133.html)

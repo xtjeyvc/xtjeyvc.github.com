@@ -2,7 +2,10 @@
 
 信息来源：https://www.ccdi.gov.cn/jfxkn/index_1.html
 
-
+- [明纪释法丨国企管理人员为亲友非法牟利，如何精准定性？](http://v.ccdi.gov.cn/2023/12/19/VIDEVAhXwnn7OsoVkXbIRDxI231219.shtml)
+- [规范政商交往丨厘清职责 主动靠前](http://v.ccdi.gov.cn/2023/12/15/VIDEkCnPUwAVO58QyPMqgcYc231215.shtml)
+- [暗示老板买单？最终还是自己“买单”](https://mp.weixin.qq.com/s/V2zg3inBFI2Pq-srIa9NKQ)
+- [揭开风腐“隐身衣” | 深挖细查违规收送消费卡](https://mp.weixin.qq.com/s/CsdTbovEvDqiBAB884iZZA)
 - [规范政商交往丨斩断公职人员与黑中介勾结利益链](http://v.ccdi.gov.cn/2023/12/09/VIDESeTsTVHUaPgwpEUVUpQM231209.shtml)
 - [@党员干部，你下班了，纪律规矩可没有“下班”](https://mp.weixin.qq.com/s/i98nVQEnuCL1GMRhcCvxHQ)
 - [规范政商交往丨警惕这些腐败新问题](http://v.ccdi.gov.cn/2023/12/04/VIDELNAxTBSkafEKFkeUHuEA231204.shtml)
