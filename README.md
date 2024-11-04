@@ -6,6 +6,8 @@
 - 基本制度（[领导机构](home/ji-ben-zhi-du.md)、[组织机构](home/ji-ben-zhi-du.md)、[历史沿革](home/li-shi-yan-ge.md)）
 - [党的知识](home/dang.md)、政治理论、[学术体系](home/xue-shu.md)
 - 监督法律关系（主体、客体、权利义务关系 下面扩展论述）
+- [为什么要有纪委监委这样的机关？](home/why.md)
+
 
 二、主体 （监察权力的行使者和责任的承担者）
 
@@ -176,8 +178,15 @@
 - [廉政意见筛选工具](home/shai-xuan.md)
 - [执纪标准一览表](home/liang-ji.md)
 - [量刑标准一览表](home/liang-xing.md)
+- [受理事项汇总表]
+- [监督对象汇总表]
+- [案件信息一览表]  
+- [流程文档](home/liu-cheng.md)
 - [银行对账单的可视化工具](home/yin-hang.md)
 - [AnythingLLM+Ollama](home/ai-ad.md)
+- [纪检智能助手](home/ad.md)
+- [业务流程图](https://od.lk/s/199110087_wkWgP/%E7%BA%AA%E6%A3%80%E6%B5%81%E7%A8%8B%E4%BD%93%E7%B3%BB2.png) 根据监督执纪工作规则制作 [svg格式下载](https://od.lk/s/199110086_6lCXi/%E7%BA%AA%E6%A3%80%E6%B5%81%E7%A8%8B%E4%BD%93%E7%B3%BB2.0.svg)
+- [加密技术](home/jia-mi.md)
 
 ### 第三章 关于本站
 

@@ -66,7 +66,7 @@ By default, the hyperlink on the current page is recognized and the content is s
 This plugin ignores diacritical marks when performing a full text search (e.g., "cafe" will also match "café"). Legacy browsers like IE11 require the following [String.normalize()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize) polyfill to ignore diacritical marks:
 
 ```html
-<script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+<script src=""></script>
 ```
 
 ## Google Analytics
