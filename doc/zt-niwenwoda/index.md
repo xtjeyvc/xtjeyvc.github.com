@@ -2,6 +2,16 @@
 
 信息来源：https://www.ccdi.gov.cn/hdjln/nwwd/
 
+- [查办放贷收息型受贿要把握哪些重点](https://www.ccdi.gov.cn/hdjln/nwwd/202410/t20241025_383493.html)
+- [设立和使用“小金库”行为如何处理](https://www.ccdi.gov.cn/hdjln/nwwd/202410/t20241025_383479.html)
+- [如何规范高效开展诫勉工作](https://www.ccdi.gov.cn/hdjln/nwwd/202409/t20240927_378234.html)
+- [如何理解《条例》关于党组织违纪的处理规定](https://www.ccdi.gov.cn/hdjln/nwwd/202409/t20240927_378208.html)
+- [为掩饰收礼而“收多交少”如何处理](https://www.ccdi.gov.cn/hdjln/nwwd/202409/t20240927_378201.html)
+- [接受函询及填报自查表时提供虚假情况如何定性](https://www.ccdi.gov.cn/hdjln/nwwd/202408/t20240830_372026.html)
+- [如何认定收受财物行为是否可能影响公正执行公务？](https://www.ccdi.gov.cn/hdjln/nwwd/202407/t20240726_364348.html)
+- [如何区分行贿罪与单位行贿罪？](https://www.ccdi.gov.cn/hdjln/nwwd/202406/t20240628_357960.html)
+- [如何向巡察组反映问题？](https://www.ccdi.gov.cn/hdjln/nwwd/202405/t20240531_351892.html)
+
 - [如何从多个量纪幅度中做出恰当纪律处分？](https://www.ccdi.gov.cn/hdjln/nwwd/202405/t20240530_351531.html)
 - [澄清正名的依据和程序是什么](https://www.ccdi.gov.cn/hdjln/nwwd/202404/t20240429_345160.html)
 - [被检举控告人不构成违纪情况下，检举控告人构成诬告陷害吗？](https://www.ccdi.gov.cn/hdjln/nwwd/202404/t20240429_345157.html)

@@ -4,6 +4,8 @@
 
 信息来源：http://spjf.a-court.gov.cn:8082/yzylacp/lacp.jsp
 
+-  [公司证照返还纠纷案件的审理思路和裁判要点](doc/zt-shanghai/sh079.md)
+-  [执行案件中涉上市公司股票司法处置的办理思路和执行要点](doc/zt-shanghai/sh078.md)
 -  [债权人撤销权纠纷案件的审理思路和裁判要点](doc/zt-shanghai/sh001.md) 
 -  [离婚案件中夫妻共有房屋分割的审理思路和裁判要点](doc/zt-shanghai/sh002.md)   
 -  [国有土地上房屋征收补偿协议纠纷案件的审理思路和裁判要点](doc/zt-shanghai/sh003.md) 

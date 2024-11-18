@@ -153,17 +153,10 @@
 - [你问我答](doc/zt-niwenwoda/index.md) 
 - [业务探讨](doc/zt-yewutantao/index.md)
 - [业务讲堂](doc/zt-yewujiangtang/index.md)
-- [纪法小课堂](doc/zt-jifaxiaoketang/index.md) 
-
-#### 四、裁判规则
-
+- [纪法小课](doc/zt-jifaxiaoketang/index.md) 
 - [上海类案裁判规则](doc/zt-shanghai/index.md)
-- [贪污贿赂类](home/tan-wu-hui-lu.md)
-- [渎职类](home/du-zhi-lei.md)  (含滥用职权、玩忽职守、徇私舞弊三类)
-- [安全事故类](home/an-quan-shi-gu.md)
-- [其他犯罪类](home/qi-ta-fan-zui.md)
 
-#### 五、其他专题
+#### 四、其他专题
 
 - [政府采购专题](doc/zt-zhengfucaigou/index.md)
 - [审计专题](doc/zt-shenji/index.md)
@@ -172,7 +165,7 @@
 - [注会考试](home/CPA.md)
 - [其他收集](doc/zt-qita/index.md)
 
-#### 六、自制工具
+#### 五、自制工具
 
 - [工作笔记本地版](home/ben-di-bi-ji.md)
 - [工作笔记APP](home/jijianapp.md)
