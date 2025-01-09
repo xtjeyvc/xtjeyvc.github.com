@@ -1,0 +1,33 @@
+name: Test
+
+on:
+  push:
+  pull_request:
+    branches: [master]
+
+jobs:
+  typos:
+    name: Spell Check with Typos
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: crate-ci/typos@v1.13.10
+
+  nbb-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Run graph-validator tests
+        uses: logseq/graph-validator@main
+
+  rdf-export:
+    runs-on: ubuntu-latest
+    name: Test rdf export
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Export graph as RDF
+        uses: logseq/rdf-export@main

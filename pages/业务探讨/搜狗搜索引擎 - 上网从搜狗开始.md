@@ -1,0 +1,4 @@
+[搜狗输入法](http://pinyin.sogou.com/)[浏览器](http://ie.sogou.com/)[网址导航](http://123.sogou.com/)  
+[企业推广](https://e.qq.com/?from=sougou01) - [免责声明](http://www.sogou.com/docs/terms.htm?v=1) - [意见反馈及投诉](http://fankui.help.sogou.com/index.php/web/web/index/type/4) - [隐私政策](https://www.sogou.com/docs/privacy.htm?v=1)  
+药品医疗器械网络信息服务备案：（京）网药械信息备字（2021）第00047号  
+© 2004-2024 Sogou.com / [网上有害信息举报专区](http://www.12377.cn/) / 京网文(2019)6117-724号 / [京ICP证050897号](https://beian.miit.gov.cn/) / [京ICP备11001839号-1](https://beian.miit.gov.cn/) / [京公网安备11000002000025号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000025)
