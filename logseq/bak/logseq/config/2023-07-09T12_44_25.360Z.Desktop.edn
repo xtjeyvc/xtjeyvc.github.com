@@ -63,7 +63,7 @@
 
  ;; Enable journals.
  ;; Default value: true
- ;; :feature/enable-journals? true
+ :feature/enable-journals? false
 
  ;; Enable flashcards.
  ;; Default value: true
@@ -116,7 +116,7 @@
  ;; Publish all pages within the Graph
  ;; Regardless of whether individual pages have been marked as public.
  ;; Default value: false
- :publishing/all-pages-public? true
+ ;; :publishing/all-pages-public? false
 
  ;; Define the default home page and sidebar status.
  ;; If unspecified, the journal page will be loaded on startup and the right sidebar will stay hidden.
@@ -132,7 +132,7 @@
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
- ;; :default-home {:page "Index", :sidebar []}
+ ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["目录" "Index"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:

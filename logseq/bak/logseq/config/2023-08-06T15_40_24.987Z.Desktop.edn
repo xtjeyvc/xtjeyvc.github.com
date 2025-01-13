@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["目录" "Index"]
+ :favorites ["Index"]
 
  ;; Set flashcards interval.
  ;; Expected value:
